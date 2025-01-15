@@ -13,4 +13,5 @@
 	2. Used CNN and XGBoost to interpret input features
 ### 3. CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments 
 1. Methods
-	1. 
+	1. Human Evaluation included
+### 4. 
